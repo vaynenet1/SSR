@@ -10,9 +10,9 @@
 *添加Apple服务正常使用（FINAL策略DIRECT）*
 *屏蔽隐私收集*
 *广告屏蔽：贴吧、360buy（京东）、微信（Wechat）、百度、Speedtest、ximalaya（喜马拉雅FM）、微博（Wweibo）、12306、China Unicom、Alibaba、QQ、*
-- **2016.7.14更新：**
+- **2016.07.14更新：**
 
-- **2016.07.05: ** 
+- **2016.07.05更新：** 
 *添加Google，Youtube等常用国外网站*
 *添加Apple服务正常使用（FINAL策略DIRECT）*
 *屏蔽隐私收集*
